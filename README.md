@@ -1,1 +1,7 @@
-# OPTICAL-COHERENCE-TOMOGRAPHY-ANGIOGRAPHY-IN-GLAUCOMA
+# OPTICAL COHERENCE TOMOGRAPHY ANGIOGRAPHY IN GLAUCOMA
+
+Glaucoma is the second most common cause of blindness worldwide. It is believed that glaucomatous optic neuropathy is the result of combination of mechanical stress and reduced blood supply to the optic nerve. Up till now, we have based glaucoma diagnosis and progression on the level of intra-ocular pressure (IOP), optic nerve cupping and visual field (VF) testing but these modalities have inherent weaknesses. Optical coherence tomography angiography (OCTA) is a robust, non-contact noninvasive imaging system that provides reproducible, 3-dimensional, high resolution, volumetric and quantitative data of the retinal layers including vascular networks in retina, optic nerve and choroid. Currently, there is no effective way of analyzing data from ever expanding field of OCTA including understanding the role played by age, gender, race, refractive errors, hypertension and diabetes. We propose to develop a deep learning tool that will parse OCTA data facilitating diagnosis of early glaucoma and its progression and that will rule out non-glaucoma conditions.    
+
+Team Lead: Karanjit S Kooner MD, Opthalmology, profiles.utsouthwestern.edu/profile/13996/karanjit-kooner.html  
+
+![alt text](https://images.squarespace-cdn.com/content/v1/5b3ffc3fcef3721bd81d8c60/1559316560107-5RA06GS6YGGITLJHYVP6/ke17ZwdGBToddI8pDm48kGz4FJLsGJDIW6ZJcdelzl5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PIDaq_hS17ieaa3OXC2SEgsWdsfzK6F3rF5MXHvPDePpE/kk2.png?format=2500w)
